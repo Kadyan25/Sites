@@ -1,1 +1,47 @@
-{}
+{
+  "magic-plumbing-atx-austin-texas": {
+    "template_variant": "A",
+    "template_id": "plumber-cinematic",
+    "business_name": "Magic Plumbing ATX",
+    "phone": "+1 512-228-9421",
+    "city": "Austin",
+    "state": "Texas",
+    "category": "plumber",
+    "tagline": "Austin's trusted plumber",
+    "hero": {
+      "headline": "Austin's Trusted Plumber — Fast, Reliable & Affordable",
+      "subheadline": "Magic Plumbing ATX has been serving Austin homeowners with professional plumber services. Licensed, insured, and ready to help.",
+      "cta": "Call +1 512-228-9421"
+    },
+    "services": [
+      "Emergency & same-day plumber service",
+      "Residential and commercial work",
+      "Free on-site estimates",
+      "Fully licensed & insured",
+      "Upfront, flat-rate pricing"
+    ],
+    "benefits": [
+      "Local Austin experts who know the area",
+      "Guaranteed workmanship on every job",
+      "Flexible scheduling 7 days a week",
+      "No hidden fees — ever"
+    ],
+    "process_steps": [
+      "Call +1 512-228-9421 or request a callback",
+      "Get your free on-site estimate",
+      "We complete the work on your schedule",
+      "Job guaranteed — we don't leave until you're satisfied"
+    ],
+    "testimonials": [
+      "\"Fast response and quality work. Best plumber in Austin.\"",
+      "\"Professional, punctual, and fairly priced. Magic Plumbing ATX is my go-to.\"",
+      "\"Fixed everything same day. Highly recommend to anyone in Austin.\""
+    ],
+    "faq": [
+      { "q": "Do you offer emergency service?", "a": "Yes — call +1 512-228-9421 anytime for urgent issues." },
+      { "q": "Are you licensed and insured?", "a": "Fully licensed and insured for all work in Texas." },
+      { "q": "Do you provide free estimates?", "a": "All estimates are free with no obligation." }
+    ],
+    "published": true
+  }
+}
